@@ -57,7 +57,7 @@
             android:value="@integer/google_play_services_version"/>
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyBQ4LeIgtd80EGFzjLnsLf8qWVO8Jyii_k"/>
+            android:value="AIzaSyDtUAm4_23InoKAo3_ZvMQfOt8r5WpKZaQ"/>
 
         <activity android:name=".ui.PlaceListActivity">
         </activity>
